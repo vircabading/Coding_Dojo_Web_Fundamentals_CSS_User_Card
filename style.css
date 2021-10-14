@@ -1,0 +1,19 @@
+/*  //////////////////////////////////////////////////
+    Subj:   Coding Dojo > Web Fundaments > CSS    
+            User Card
+    By:     Virgilio D. Cabading Jr.
+    Date:   October 13, 2021
+    ////////////////////////////////////////////////// */
+
+/* //// Universal Browser Reset ////////////////////// */
+* {                                                     
+    vertical-align: baseline;
+    font-weight: inherit;
+    font-family: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    border: 0 none;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+}
